@@ -6,6 +6,7 @@ int main(){
 
     for (int i=0;i<20;i++){
             if ((i%3==0)||(i %5==0)){
+                //want to modify this to be based on meeting conditions at a lower level.
                 if (i % 3 == 0){
                     printf("%.4s",fizzbuzz);
                 }
