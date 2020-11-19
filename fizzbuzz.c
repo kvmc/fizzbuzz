@@ -1,3 +1,4 @@
+//Stupid way to fizzbuzz
 #include <stdio.h>
 
 int main(){
